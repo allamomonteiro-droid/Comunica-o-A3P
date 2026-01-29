@@ -1,0 +1,7 @@
+{
+  "name": "CommGov - Governança de Comunicação Interna",
+  "description": "Uma plataforma robusta para registro, auditoria e análise estratégica da comunicação interna corporativa, utilizando IA para insights de People Analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
